@@ -1,3 +1,5 @@
+![Row of piano keys](piano.jpg)
+
 # Hi there! (❁´◡`❁)
 
 ## I am a current student at Arizona State Univerity as a Graphic Design major!
