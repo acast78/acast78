@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/6Fd0P70BD4ezu" width="480" height="319" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/processing-proce55ing-diagrammar-6Fd0P70BD4ezu">via GIPHY</a></p>" width="100"/>
+# Hi there (❁´◡`❁)
 </div>
-## Hi there (❁´◡`❁)
 
 <!--
 **acast78/acast78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
